@@ -67,7 +67,7 @@ print_r($data);
 
 ---
 
-## 📚 Full Example (all fields)
+## Full Example (all fields)
 
 ```php
 $data = $g->read('/path/to/photo.jpg', [
